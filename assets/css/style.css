@@ -1,0 +1,45 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  color: white;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#intro {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  color: blue;
+  padding: 8rem 4rem 20rem 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+  cursor: default;
+  text-align: center;
+  z-index: 1;
+  min-height: 100vh;
+}
+.about-me {
+  margin-top: 4rem;
+  margin-bottom: 20rem;
+  float: left;
+  background-image: url('./images/portfolio-background3.jpg');
+  background-color: #343a40;
+  color: white;
+}
+hr {
+  background-color: white;
+}
+/*my oicture style inn= index file*/
+.MyPicture {
+  height: 200px;
+  width: 150px;
+}
+/* portfolio image css*/
+.img {
+  height: 350px;
+  width: 350px;
+}
