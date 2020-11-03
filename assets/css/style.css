@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto Slab', serif;
-  color: white;
+  color: orangered;
+  background-image: url('../images/blue-cyber-future-technology-concept-background_42077-488.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -10,7 +11,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   /* background-size: cover; */
-  color: blue;
+  color: orangered;
   padding: 8rem 4rem 20rem 4rem;
   align-items: center;
   display: flex;
@@ -24,10 +25,9 @@ body {
 }
 .about-me {
   margin-top: 4rem;
-  margin-bottom: 20rem;
+  margin-bottom: 4rem;
   float: left;
-  background-image: url('./images/portfolio-background3.jpg');
-  background-color: #343a40;
+  background-color: transparent;
   color: white;
 }
 hr {
@@ -40,6 +40,6 @@ hr {
 }
 /* portfolio image css*/
 .img {
-  height: 350px;
-  width: 350px;
+  height: 400px;
+  width: 400px;
 }
