@@ -1,45 +1,69 @@
 body {
-  font-family: 'Roboto Slab', serif;
-  color: orangered;
-  background-image: url('../images/blue-cyber-future-technology-concept-background_42077-488.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-image: url('../images/leaves-pattern.png');
+  font-family: Georgia, Times, 'Merriweather', 'Times New Roman', serif;
 }
-#intro {
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  /* background-size: cover; */
-  color: orangered;
-  padding: 8rem 4rem 20rem 4rem;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  position: relative;
-  cursor: default;
-  text-align: center;
-  z-index: 1;
-  min-height: 100vh;
+.h1,
+h2 {
+  font-size: 2rem;
+  color: orange;
+}
+iframe {
+  max-width: 100%;
+}
+
+.content-container {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  max-width: none;
+}
+.content-title {
+  font-size: 20px;
+  color: #4aaaa5;
+  font-family: Georgia, Times, 'Merriweather', 'Times New Roman', serif;
+  font-weight: bold;
+  border-bottom: 2px solid #cccccc;
+  margin: 10px;
+}
+.portfolio-pic {
+  max-width: 100%;
 }
 .about-me {
+  font-family: Georgia, Times, 'Merriweather', 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 24px;
+  position: relative;
+  height: auto;
   margin-top: 4rem;
-  margin-bottom: 4rem;
+  margin-bottom: 8rem;
   float: left;
-  background-color: transparent;
+  background-image: url('../images/portfolio-background3.jpg');
+  background-color: #343a40;
   color: white;
 }
-hr {
-  background-color: white;
-}
-/*my oicture style inn= index file*/
 .MyPicture {
   height: 200px;
   width: 150px;
 }
-/* portfolio image css*/
-.img {
-  height: 400px;
-  width: 400px;
+footer {
+  background-color: #343a40;
+  height: 4rem;
+  padding: 18px;
+  border-top: rgb(19, 187, 4) 0.25rem solid;
+  color: white;
+}
+.icon {
+  width: 30px;
+  height: 30px;
+  color: none;
+  border-right: none;
+  margin-left: 2rem;
+}
+.hr {
+  border-bottom: 2px solid;
+}
+card-text {
+  font-size: 18px;
+  line-height: 24px;
+  color: black;
 }
