@@ -1,5 +1,5 @@
 body {
-  background-image: url('../images/leaves-pattern.png');
+  background-image: url('../images/leaves-pattern/leaves-pattern.png');
   font-family: Georgia, Times, 'Merriweather', 'Times New Roman', serif;
 }
 .h1,
@@ -29,6 +29,7 @@ iframe {
   max-width: 100%;
 }
 .about-me {
+  background-image: url('../images/leaves-pattern/leaves-pattern.png');
   font-family: Georgia, Times, 'Merriweather', 'Times New Roman', serif;
   font-size: 18px;
   line-height: 24px;
@@ -37,15 +38,13 @@ iframe {
   margin-top: 4rem;
   margin-bottom: 8rem;
   float: left;
-  background-image: url('../images/portfolio-background3.jpg');
-  background-color: #343a40;
-  color: white;
+  color: black;
 }
 .MyPicture {
   height: 200px;
   width: 150px;
 }
-footer {
+.footer {
   background-color: #343a40;
   height: 4rem;
   padding: 18px;
@@ -53,17 +52,20 @@ footer {
   color: white;
 }
 .icon {
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
+
   color: none;
   border-right: none;
   margin-left: 2rem;
 }
-.hr {
-  border-bottom: 2px solid;
-}
-card-text {
+
+.card-text {
   font-size: 18px;
   line-height: 24px;
   color: black;
+}
+.resume {
+  text-align: center;
+  align-content: center;
 }
