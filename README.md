@@ -10,6 +10,7 @@
 - [Link to Git Hub Repository](https://github.com/parth167/parth167.github.io.git)
 - [LinkedIn](https://www.linkedin.com/in/parth-patel-4725381b5/)
 - [GitHub](https://github.com/parth167/)
+- [Resume](https://github.com/parth167/parth167.github.io/blob/master/assets/images/Parth%20Patel.pdf)
 
 ## Project Description
 
@@ -19,5 +20,10 @@ The project is comprised of 3 separate files, and the navbar at the top of the s
 
 ## Screen Shot of Deployed index page
 
+- leading page of app
+
 ![Screenshot of index](https://github.com/parth167/parth167.github.io/blob/master/assets/images/about.png)
+
+- portfolio page of app
+
 ![Screenshot of portfolio](https://github.com/parth167/parth167.github.io/blob/master/assets/images/portfolio.png)
