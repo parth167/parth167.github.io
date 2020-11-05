@@ -6,7 +6,7 @@
 
 ## Links to Deployed Pages
 
-- [Link to Deployed Project]()
+- [Link to Deployed Project](https://parth167.github.io/)
 - [Link to Git Hub Repository](https://github.com/parth167/parth167.github.io.git)
 - [LinkedIn](https://www.linkedin.com/in/parth-patel-4725381b5/)
 - [GitHub](https://github.com/parth167/)
