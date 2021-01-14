@@ -2,7 +2,7 @@
 
 ### Updated-Portfolio
 
-- This project is my updated portfolio with projrcts
+- This project is my updated portfolio with projects
 
 ## Links to Deployed Pages
 
@@ -26,4 +26,4 @@ The project is comprised of 3 separate files, and the navbar at the top of the s
 
 - portfolio page of app
 
-![Screenshot of portfolio](https://github.com/parth167/parth167.github.io/blob/master/assets/images/portfolio.png)
+![Screenshot of portfolio](https://github.com/parth167/parth167.github.io/blob/master/assets/images/portfolio.jpg)
