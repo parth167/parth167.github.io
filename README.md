@@ -26,4 +26,4 @@ The project is comprised of 3 separate files, and the navbar at the top of the s
 
 - portfolio page of app
 
-![Screenshot of portfolio](https://github.com/parth167/parth167.github.io/blob/master/assets/images/portfolio.jpg)
+![Screenshot of portfolio](https://github.com/parth167/parth167.github.io/blob/master/assets/images/portfolio2.jpg)
